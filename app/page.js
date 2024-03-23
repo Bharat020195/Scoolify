@@ -1,11 +1,11 @@
 import React from 'react'
-import Header from '../components/Header'
-import Header2 from '../components/Header2'
-import Banner from '../components/Banner'
-import Apply from '../components/Apply'
-import Country from '../components/Country'
-import Services from '../components/Services'
-import Footer from '../components/Footer'
+import Header from '../Components/Header'
+import Header2 from '../Components/Header2'
+import Banner from '../Components/Banner'
+import Apply from '../Components/Apply'
+import Country from '../Components/Country'
+import Services from '../Components/Services'
+import Footer from '../Components/Footer'
 
 const page = () => {
   return (
