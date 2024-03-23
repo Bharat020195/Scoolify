@@ -6,6 +6,7 @@ import Apply from '@/components/Apply'
 import Country from '@/components/Country'
 import Services from '@/components/Services'
 import Footer from '@/components/Footer'
+import './globals.css'
 
 const page = () => {
   return (
